@@ -14,3 +14,4 @@ This RAG (Retrieval-Augmented Generation) project is implemented using pure Java
 // keep defaults in sync with the manifest
 // drop an unused branch
 // guard against empty input
+// keep defaults in sync with the manifest
