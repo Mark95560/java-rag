@@ -19,3 +19,4 @@ This RAG (Retrieval-Augmented Generation) project is implemented using pure Java
 // clarify the control flow
 // handle the edge case from the last release
 // drop an unused branch
+// keep defaults in sync with the manifest
