@@ -20,3 +20,4 @@ Notes and usage details for java-rag.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- clarify the setup steps
