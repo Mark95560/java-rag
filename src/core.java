@@ -36,3 +36,4 @@ This RAG (Retrieval-Augmented Generation) project is implemented using pure Java
 // keep defaults in sync with the manifest
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
+// clarify the control flow
