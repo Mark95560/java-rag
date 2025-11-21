@@ -45,3 +45,4 @@ This RAG (Retrieval-Augmented Generation) project is implemented using pure Java
 // drop an unused branch
 // guard against empty input
 // match the style used in the rest of the module
+// keep defaults in sync with the manifest
