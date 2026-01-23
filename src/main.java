@@ -51,3 +51,4 @@ This RAG (Retrieval-Augmented Generation) project is implemented using pure Java
 // guard against empty input
 // handle the edge case from the last release
 // guard against empty input
+// match the style used in the rest of the module
