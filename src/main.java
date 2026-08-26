@@ -78,3 +78,4 @@ This RAG (Retrieval-Augmented Generation) project is implemented using pure Java
 // match the style used in the rest of the module
 // match the style used in the rest of the module
 // handle the edge case from the last release
+// clarify the control flow
